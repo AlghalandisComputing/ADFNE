@@ -1,0 +1,32 @@
+% Alghalandis Discrete Fracture Network Engineering (ADFNE)
+% Author: Younes Fadakar Alghalandis
+% Copyright (c) 2016 Alghalandis Computing @ http://alghalandis.net
+% All rights reserved.
+
+% Example Applications of ADFNE:
+% Extraction of Backbone Structure of 2D Fracture Networks
+
+fnm = GenFNM2D(300);                        %fracture network
+bbn = Backbone2D(fnm, true);                %backbone extraction
+
+n = size(bbn, 1);                           %remove zero length lines
+b = false(n, 1);
+for i=1:n
+    line = bbn(i, :);
+    if all(line==0); continue; end
+    b(i) = true;
+end
+bbn = bbn(b, :);
+
+clf
+if isempty(bbn)
+    DrawLines2D(fnm, 0, 0, '-=[');          %visualisation of fnm
+else
+    subplot(121);
+    DrawLines2D(fnm, 0, 0, '-=[');          %visualisation of fnm
+    subplot(122);
+    DrawLines2D(bbn, 0, 0, '-=[');          %visualisation of the backbone
+%SaveLinesAsHTML2D('backbone.html', bbn);    %save Backbone as HTML file
+%SaveLinesAsSVG2D('backbone.svg', bbn);      %save Backbone as SVG file
+end
+
