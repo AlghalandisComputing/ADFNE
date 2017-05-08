@@ -1,0 +1,24 @@
+To get started, read the paper:
+
+Fadakar-A Y (2017) "ADFNE: Open Source Software for Discrete Fracture Network Engineering, Two and Three Dimensional Applications", J Computers and Geosciences, 102:1-11. DOI: http://dx.doi.org/10.1016/j.cageo.2017.02.002 
+
+, also visit the following webpages:
+
+http://alghalandis.net/products/adfne
+
+download third party packages introduced at the bottom of the page;
+
+http://alghalandis.net/products/adfne/apps
+
+and
+
+http://alghalandis.net/products/adfne/partextra
+http://alghalandis.net/note/flowfnm
+http://alghalandis.net/note/gcode
+
+Licenses:
+http://alghalandis.net/copyright-and-rights
+
+You're most welcome to leave a message (question, comment etc.) via:
+
+http://alghalandis.net/contact-us
