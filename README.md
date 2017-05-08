@@ -3,7 +3,8 @@ Alghalandis Discrete Fracture Network Engineering
 
 This is a duplicate of the original repository at https://alghalandis.net/products/adfne.
 
-** License **
+**License
+
 ----------------------------------------------------------------------------------
 Release 1.0
 ADFNE License
@@ -18,9 +19,11 @@ Redistribution and use in source and binary forms, with or without modification,
 * Name of the Author (copyright holder) cannot be used to endorse or promote products derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
 ----------------------------------------------------------------------------------
 
-** Important Notice **
+**Important Notice
+
 This release (1.0 and also 1.1) may contain some bugs, even mistakes, incomplete comments, help-text etc.
 I do not maintain this release but instead I am currently working on the releases 2.0 and 2.0+.
 
@@ -28,7 +31,7 @@ When the work all done, the Releases 2.0 and 2.0+ will be uploaded first on http
 
 For preview of the Releases 2.0 and 2.0+ please check out http://www.alghalandis.net/note/adfne2 and http://alghalandis.net/note/qstudy.
 
-** Get Started **
+**Get Started
 
 To get started, first read the paper:
 
@@ -45,7 +48,9 @@ http://alghalandis.net/products/adfne/apps
 and
 
 http://alghalandis.net/products/adfne/partextra
+
 http://alghalandis.net/note/flowfnm
+
 http://alghalandis.net/note/gcode
 
 Licenses:
@@ -54,7 +59,3 @@ http://alghalandis.net/copyright-and-rights
 You're most welcome to leave a message (question, comment etc.) via:
 
 http://alghalandis.net/contact-us
-
-
-
-
