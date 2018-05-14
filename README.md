@@ -1,15 +1,16 @@
 # ADFNE
 Alghalandis Discrete Fracture Network Engineering
 
-Note: This repository is kept for historical values and references. I strongly recommend to use new release 1.5 instead.
+<hr>
+Note: This repository is kept for historical values and references. <b>I strongly recommend to use new release 1.5 instead.</b>
 
-**New release 1.5 is available at http://alghalandis.net/products/adfne/adfne15
-
+<b> New release 1.5 is available at http://alghalandis.net/products/adfne/adfne15 </b>
+<hr>
 This is a duplicate of the original repository at https://alghalandis.net/products/adfne.
 
-**License
+<b> License </b>
 
-----------------------------------------------------------------------------------
+<div>----------------------------------------------------------------------------------
 Release 1.0
 ADFNE License
 
@@ -24,9 +25,9 @@ Redistribution and use in source and binary forms, with or without modification,
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------</div>
 
-**Important Notice
+<b> Important Notice </b>
 
 This release (1.0 and also 1.1) may contain some bugs, even mistakes, incomplete comments, help-text etc.
 I do not maintain this release but instead I am currently working on the releases 2.0 and 2.0+.
@@ -35,7 +36,7 @@ When the work all done, the Releases 2.0 and 2.0+ will be uploaded first on http
 
 For preview of the Releases 2.0 and 2.0+ please check out http://www.alghalandis.net/note/adfne2 and http://alghalandis.net/note/qstudy.
 
-**Get Started
+<b> Get Started </b>
 
 To get started, first read the paper:
 
