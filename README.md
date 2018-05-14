@@ -7,7 +7,7 @@ Note: This repository is kept for historical values and references. <b>I strongl
 <b> New release 1.5 is available at http://alghalandis.net/products/adfne/adfne15 </b>
 
 <hr>
-######################################################################################
+######################################################################################<br>
 This is a duplicate of the original repository at https://alghalandis.net/products/adfne.
 
 <b> License </b>
