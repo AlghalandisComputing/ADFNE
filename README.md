@@ -1,6 +1,10 @@
 # ADFNE
 Alghalandis Discrete Fracture Network Engineering
 
+Note: This repository is kept for historical values and references. I strongly recommend to use new release 1.5 instead.
+
+**New release 1.5 is available at http://alghalandis.net/products/adfne/adfne15
+
 This is a duplicate of the original repository at https://alghalandis.net/products/adfne.
 
 **License
