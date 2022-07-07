@@ -2,6 +2,59 @@
 Alghalandis Discrete Fracture Network Engineering
 
 <hr>
+<hr>
+<b>
+As of 12 June 2022 I put alghalandis.net offline to seek a proper, reliable and affordable web hosting solution. Due to other commitments it will take sometime. Meanwhile I uploaded the ADFNE1.5 package as a zip file here. It is password protected so you will need to read and accept the following License and then send me ( alghalandis . net @ gmail . com ) [disregard the spaces] the following registration information to open it.
+
+- Full name
+- Affiliation and Position
+- Email address
+
+<hr>
+
+ADFNE 1.5 License 
+
+Copyright © 2018, Dr. Younes Fadakar Alghalandis, Alghalandis Computing @ 
+
+http://alghalandis.net 
+All rights reserved. 
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met: 
+
+* Redistributions of source code must retain the above copyright notice, this 
+list of conditions and the following disclaimer. 
+
+* Redistributions in binary form must reproduce the above copyright notice, 
+this list of conditions and the following disclaimer in the documentation and/or 
+other materials provided with the distribution. 
+
+* Name of the Author (copyright holder) cannot be used to endorse or promote 
+products derived from this software without specific prior written permission. 
+
+* Use of at least one of the following references for citation. 
+
+Fadakar-A Y, 2017, “ADFNE: Open source software for discrete fracture network 
+engineering, two and three dimensional applications”, Journal of Computers & 
+Geosciences, 102:1-11. 
+
+Fadakar-A Y, 2018, “DFNE Practices with ADFNE”, Alghalandis Computing, Toronto, 
+Ontario, Canada, http://alghalandis.net, pp61. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR 
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; 
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON 
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT 
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+
+</b>
+<hr>
+<hr>
 Note: This repository is kept for historical values and references. <b>I strongly recommend to use new release 1.5 instead.</b>
 
 <b> New release 1.5 is available at http://alghalandis.net/products/adfne/adfne15 </b>
