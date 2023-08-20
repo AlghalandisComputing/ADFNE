@@ -61,7 +61,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <hr>
 Note: This repository is kept for historical values and references. <b>I strongly recommend to use new release 1.5 instead.</b>
 
-<b> New release 1.5 is available at <s> http://alghalandis.net/products/adfne/adfne15 </s>  https://github.com/AlghalandisComputing/ADFNE1.5 </b>
+<b> New release 1.5 is available at <s> http://alghalandis.net/products/adfne/adfne15 </s><br>https://github.com/AlghalandisComputing/ADFNE1.5 </b>
 
 <hr>
 ######################################################################################<br>
@@ -93,7 +93,7 @@ I do not maintain this release but instead I am currently working on the release
 
 When the work all done, the Releases 2.0 and 2.0+ will be uploaded first on http://www.alghalandis.net and then I might also duplicate it here on github.
 
-For preview of the Releases 2.0 and 2.0+ please check out http://www.alghalandis.net/note/adfne2 and http://alghalandis.net/note/qstudy.
+<s>For preview of the Releases 2.0 and 2.0+ please check out http://www.alghalandis.net/note/adfne2 and http://alghalandis.net/note/qstudy.</s>
 
 <b> Get Started </b>
 
