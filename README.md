@@ -3,13 +3,17 @@ Alghalandis Discrete Fracture Network Engineering
 
 <hr>
 <hr>
-<b>
+<s><b>
 As of 12 June 2022 I put alghalandis.net offline to seek a proper, reliable and affordable web hosting solution. Due to other commitments it will take sometime. Meanwhile I uploaded the ADFNE1.5 package as a zip file here. It is password protected so you will need to read and accept the following License and then send me ( alghalandis . net @ gmail . com ) [disregard the spaces] the following registration information to open it.
 
 - Full name
 - Affiliation and Position
 - Email address
-
+</s>
+<br>
+Download ADFNE1.5 from:
+<b> https://github.com/AlghalandisComputing/ADFNE1.5 </b>
+<br>
 <hr>
 
 ADFNE 1.5 License 
@@ -57,11 +61,11 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <hr>
 Note: This repository is kept for historical values and references. <b>I strongly recommend to use new release 1.5 instead.</b>
 
-<b> New release 1.5 is available at http://alghalandis.net/products/adfne/adfne15 </b>
+<b> New release 1.5 is available at <s> http://alghalandis.net/products/adfne/adfne15 </s>  https://github.com/AlghalandisComputing/ADFNE1.5 </b>
 
 <hr>
 ######################################################################################<br>
-This is a duplicate of the original repository at https://alghalandis.net/products/adfne.
+<s>This is a duplicate of the original repository at https://alghalandis.net/products/adfne.</s>
 
 <b> License </b>
 
@@ -99,7 +103,7 @@ Fadakar-A Y (2017) "ADFNE: Open Source Software for Discrete Fracture Network En
 
 , also visit the following webpages:
 
-http://alghalandis.net/products/adfne
+<s>http://alghalandis.net/products/adfne
 
 You should also download additional third party packages/files as stated at the bottom of the page.
 
@@ -118,4 +122,4 @@ http://alghalandis.net/copyright-and-rights
 
 You're most welcome to leave a message (question, comment etc.) via:
 
-http://alghalandis.net/contact-us
+http://alghalandis.net/contact-us</s>
