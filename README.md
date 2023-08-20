@@ -89,9 +89,9 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 <b> Important Notice </b>
 
 This release (1.0 and also 1.1) may contain some bugs, even mistakes, incomplete comments, help-text etc.
-I do not maintain this release but instead I am currently working on the releases 2.0 and 2.0+.
+I do not maintain this release <s>but instead I am currently working on the releases 2.0 and 2.0+.
 
-When the work all done, the Releases 2.0 and 2.0+ will be uploaded first on http://www.alghalandis.net and then I might also duplicate it here on github.
+When the work all done, the Releases 2.0 and 2.0+ will be uploaded first on http://www.alghalandis.net and then I might also duplicate it here on github.</s>
 
 <s>For preview of the Releases 2.0 and 2.0+ please check out http://www.alghalandis.net/note/adfne2 and http://alghalandis.net/note/qstudy.</s>
 
