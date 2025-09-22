@@ -1,6 +1,9 @@
 # ADFNE
 Alghalandis Discrete Fracture Network Engineering
 
+For newer and advanced version go to <b> https://github.com/AlghalandisComputing/ADFNE1.5 </b>
+
+
 <hr>
 <hr>
 <s><b>
